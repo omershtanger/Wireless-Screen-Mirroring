@@ -111,5 +111,4 @@ Python · socket · ssl (TLS) · threading · SQLite · bcrypt · CustomTkinter 
 
 ## Author
 
-**Omer Shtanger**, Electrical Engineering student at Tel Aviv University
-[LinkedIn](https://linkedin.com/in/omer-shtanger) · [GitHub](https://github.com/omershtanger)
+**Omer Shtanger**
