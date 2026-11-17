@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Secrets - never upload the private key
+server/server.key
+*.key
+
+# Local database with user accounts
+server/viewair.db
+*.db
